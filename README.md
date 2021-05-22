@@ -1,4 +1,4 @@
-# Exemplo de publicação de uma Web Api com Docker e Nginx
+# Exemplo de Web Api com Docker e Nginx
 
 Para subir o sistema no docker basta seguir os seguintes passos:
 
